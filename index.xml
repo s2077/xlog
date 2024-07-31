@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jul 2024 23:30:26 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/posts/article/my-first-post/</link><pubDate>Wed, 31 Jul 2024 23:30:26 +0800</pubDate>
+      
+      <guid>/posts/article/my-first-post/</guid>
+      <description>世界，您好！</description>
+    </item>
+    
+  </channel>
+</rss>
