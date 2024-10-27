@@ -6,15 +6,8 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 22:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 23:30:26 +0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Xbox按键说明示意图</title>
-      <link>https://example.org/posts/article/xbox-%E6%8C%89%E9%94%AE%E8%AF%B4%E6%98%8E%E7%A4%BA%E6%84%8F%E5%9B%BE/</link>
-      <pubDate>Fri, 23 Aug 2024 22:15:00 +0800</pubDate>
-      <guid>https://example.org/posts/article/xbox-%E6%8C%89%E9%94%AE%E8%AF%B4%E6%98%8E%E7%A4%BA%E6%84%8F%E5%9B%BE/</guid>
-      <description>&lt;h2 id=&#34;按键说明&#34;&gt;按键说明&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://anki.gbast.xyz/stroage/2024/08/23/gz98nwjryh.png&#34; alt=&#34;xbox游戏手柄&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;1 LT：全称：Left Trigger，按键名称：左扳机键，赛车游戏中一般为车的刹车，速度降为0后，将执行刹车&#xA;2 LB：全称：Left bumper，按键名称：左肩键，在赛车游戏中一般为离合器&#xA;3 LS：左摇杆，赛车游戏中一般用于控制方向盘&#xA;4 LS按下左操作杆&#xA;5 方向键&#xA;6 视图按钮&#xA;7 选项按键&#xA;8 RT键：全称：Right Trigger，按键名称：右扳机键，赛车游戏中一般为车的油门。&#xA;9 RB键：全称：Right bumper，按键名称：右肩键，赛车游戏中一般用来切换游戏视角&#xA;10 Y按键&#xA;11 X按键&#xA;12 B按键&#xA;13 A按键&#xA;14 RS右操作杆&#xA;15 RS按下右操作杆&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Hello World</title>
       <link>https://example.org/posts/article/my-first-post/</link>
